@@ -79,7 +79,7 @@ hr.star-primary:after {
     margin: 0 auto;
 }
 
-header {
+header {    
     text-align: center;
     color: #fff;
     background: #18bc9c;
@@ -153,6 +153,9 @@ header .intro-text .skills {
     font-weight: 700;
 }
 
+.navbar-brand{
+    padding: 0;
+}
 .navbar a:focus {
     outline: 0;
 }
@@ -457,3 +460,4 @@ footer .footer-below {
     display: none;
     opacity: 0;
 }
+
